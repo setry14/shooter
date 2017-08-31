@@ -1,6 +1,6 @@
 ## Notes
 
-This 2-D Car Racing game is running the following stack:
+This 2-D Shooting game is running the following stack:
 -   Microsoft XNA 4.0
 -	C#
 
